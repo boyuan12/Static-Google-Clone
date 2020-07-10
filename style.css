@@ -1,0 +1,138 @@
+* {
+	font-family: arial;
+	font-size: 13px;
+	padding: 0;
+	margin: 0;
+}
+
+nav {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#store {
+	margin-left: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #464646;
+}
+
+#gmail {
+	margin-left: 75%;
+}
+
+#images {
+	margin-left: 10px;
+}
+
+#squares {
+	position: absolute;
+	margin-left: 15px;
+	margin-top: -5px;
+}
+
+#profile {
+	position: absolute;
+	margin-left: 75px;
+	margin-top: -10px;
+	border-radius: 50%;
+}
+
+#logo {
+	position: absolute;
+	margin-left: 37%;
+	margin-top: 10%;
+}
+
+#search {
+	border-radius: 20px;
+	width: 600px; 
+	height: 35px;
+	margin-top: 250px;
+	margin-left: 27%;
+	padding-left: 50px;
+	border: 0.1px solid gray;
+	font-size: 16px;
+}
+
+input[type=text]:focus {
+    outline: none;
+	box-shadow: 0 0 5px rgb(71, 75, 77)
+}
+
+#input_img {
+	position: absolute;
+	margin-left: -640px;
+	margin-top: 260px;
+}
+
+#search-button {
+	margin-left: 490px;
+	margin-top: 35px;
+	width: 130px;
+	height: 35px;
+	border: 1px solid #f3f3f3
+}
+
+#lucky {
+	margin-left: 30px;
+	margin-top: 35px;
+	width: 130px;
+	height: 35px;
+	border: 1px solid #f3f3f3
+}
+
+#bottom-bar {
+	margin-top: 255px;
+	height: 40px;
+	border: 1px solid #f2f2f2;
+	background-color: #f2f2f2;
+}
+
+#ads {
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 13px;
+}
+
+#ads {
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 13px;
+}
+
+#bus {
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 13px;
+}
+
+#how {
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 13px;
+}
+
+#privacy {
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 1000px;
+}
+
+#terms {
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 1100px;
+}
+
+#settings {
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 1200px;
+}
+
+button:hover {
+	box-shadow: 0 0 5px rgb(71, 75, 77);
+}
